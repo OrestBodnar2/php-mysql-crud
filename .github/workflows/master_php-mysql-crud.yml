@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'php-mysql-crud'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A111B80681AF4B519C16A29AC853E339 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD3AA83437124AE194AA3C6CA3864B52 }}
           package: .
