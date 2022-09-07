@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'webapporest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_534D8A230D8A41A89F080BB424AAC299 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E38651340E34B9D91897206894C4ECA }}
           package: .
